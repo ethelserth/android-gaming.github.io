@@ -2,7 +2,7 @@
 title: 'Μια Ελληνίδα στη Μπολόνια #1'
 date: 2017-05-30 06:28:00 Z
 categories:
-- Inspiration
+- inspiration-places
 tags:
 - traveling
 - Italy
