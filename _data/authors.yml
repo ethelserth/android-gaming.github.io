@@ -16,7 +16,7 @@ ethelserth:
   picture:
     src: /assets/img/me.jpg
     srcset:
-      1x: /assets/img/profile.jpg
+      1x: /assets/img/me.jpg
   social:
     facebook: atsiokos
     instagram: aghs_tsiokos
