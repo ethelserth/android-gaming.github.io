@@ -1,12 +1,10 @@
 ---
-title: Technology
+title: Humor - Stange things
 layout: list
 menu: true
 order: 2
-description: 'Διάφορα άρθρα σχετικά με τεχνολογικά θέματα
-
-'
-image: "/assets/img/technology.jpg"
-color: "#268bd2"
+description: Γελάστε ελεύθερα!
+image: /assets/img/Humor - Stange things.jpg
+color: '#268bd2'
 ---
 
