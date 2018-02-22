@@ -1,6 +1,6 @@
 ---
-layout: about
 title: About
+layout: about
 menu: true
 order: 6
 ---

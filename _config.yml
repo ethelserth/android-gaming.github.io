@@ -1,123 +1,71 @@
-# -----------------------------------------------------------------------------
-#  User configuration
-# -----------------------------------------------------------------------------
-
-title:               Yet Another Blog
-
-# The unique resource location of your page.
-# Set to `https://<username>.github.io` when hosting on GitHub Pages (and not using custom domains!)
-url:                 https://yet-another-blog.eu
-
-# Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
-# Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:
-
-# A very short description  of your page
-tagline:             Ένα ακόμη blog γενικού περιεχομένου
-
-# A longer description of the page, used in the sidebar and as fallback for the meta description tag.
-# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:         >
-  Thoughts, Projects & Experimentation
-
-# This should be the same author as first in `_data/authors.yml`
-author:
-  name:              Agathoklis Tsiokos
-  email:             pergaminh@live.com
-
-# Fallback image and color if not overwritten
-image:               /assets/img/main.jpg
-color:               '#4f86aa'
-
-# Remove to disable Google Fonts
-google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
-font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
-font:                "'Noto Serif', Georgia, serif"
-
-# Remove to disable Google Anaylics
-google_analytics: UA-69030775-3
-
-# Setting a disqus shortname will enable the comment section on pages
-# that have `comments: true` in the front matter
-disqus_shortname: yet-another-blog
-
-# This text will appear in the footer of every page. Markdown enabled.
-copyright:           © 2017. All rights reserved.
-
-# Format of the permalinks
-permalink:           pretty
-
-# Pagination configuration (used by the `blog` layout)
-paginate:            5
-paginate_path:       '/page-:num/'
-
-# If you are updating form a previous verison of Hydejack, uncomment the two lines below,
-# so that existing subscribers to your feed continue to receive updates.
-# feed:
-#   path:              atom.xml
-
-# Set to true when building locally with the `--lsi` option
-# See: https://jekyllrb.com/docs/variables/#site-variables, `site.related_posts`
-# use_lsi:             true
-
-# Set to `true` if you don't want to show an icon after each link that opens to an external site
-# no_mark_external:    true
-
-# Uncomment this line if 3rd party plugins fail to work with dynimically loaded pages
-# disable_push_state:  true
-
-# Uncomment this line if want to disable the touch drawer on mobile
-# disable_drawer: true
-
-# -----------------------------------------------------------------------------
-#  Collections
-# -----------------------------------------------------------------------------
-
+---
+title: Yet Another Blog
+timezone: UTC
 collections:
   featured_categories:
-    permalink:       /category/:name/
-    output:          true
+    title: Featured Categories
+    output: true
+    permalink: "/category/:name/"
   featured_tags:
-    permalink:       /tag/:name/
-    output:          true
+    title: Featured Tags
+    output: true
+    permalink: "/tag/:name/"
+  posts:
+    title: Posts
+    output: true
   projects:
-    permalink:       /projects/:path/
-    output:          true
+    title: Projects
+    output: true
+    permalink: "/projects/:path/"
+  uploads:
+    title: Uploads
+    output: true
+url: https://yet-another-blog.eu
+baseurl: 
+tagline: Ένα ακόμη blog γενικού περιεχομένου
+description: 'Thoughts, Projects & Experimentation
 
-permalink: /:categories/:title.html
-
-
-# -----------------------------------------------------------------------------
-#  Advanced configuration
-# -----------------------------------------------------------------------------
-
+'
+author:
+  name: Agathoklis Tsiokos
+  email: pergaminh@live.com
+image: "/assets/img/main.jpg"
+color: "#4f86aa"
+google_fonts: Roboto+Slab:700|Noto+Serif:400,400i,700,700i
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
+font: "'Noto Serif', Georgia, serif"
+google_analytics: UA-69030775-3
+disqus_shortname: yet-another-blog
+copyright: "© 2017. All rights reserved."
+permalink: "/:categories/:title.html"
+paginate: 5
+paginate_path: "/page-:num/"
 gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-redirect-from
-
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-redirect-from
 exclude:
-  - README.md
-  - LICENSE.md
-  - node_modules
-  - package.json
-  - Gemfile
-  - Gemfile.lock
-
+- README.md
+- LICENSE.md
+- node_modules
+- package.json
+- Gemfile
+- Gemfile.lock
 kramdown:
-  footnote_backlink: '&#x21a9;&#xfe0e;'
-  math_engine:       mathjax
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  math_engine: mathjax
   math_engine_opts:
-    preview:         true
+    preview: true
     preview_as_code: true
-
 compress_html:
-  comments:          ["<!-- ", " -->"]
-  clippings:         all
-  endings:           all
+  comments:
+  - "<!-- "
+  - " -->"
+  clippings: all
+  endings: all
   ignore:
-    envs:            [development]
-
+    envs:
+    - development
 sass:
-  style:             compressed
+  style: compressed

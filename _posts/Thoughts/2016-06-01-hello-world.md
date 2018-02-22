@@ -1,9 +1,12 @@
 ---
+title: Hello World
+date: 2016-06-01 00:00:00 Z
+categories:
+- thoughts
 layout: post
-title: 'Hello World'
-categories : thoughts
-description: >
-  Παρθενικό ποστ και χαιρετισμός με τον παραδοσιακό τρόπο των προγραμματιστών.
+description: 'Παρθενικό ποστ και χαιρετισμός με τον παραδοσιακό τρόπο των προγραμματιστών.
+
+'
 comments: true
 ---
 

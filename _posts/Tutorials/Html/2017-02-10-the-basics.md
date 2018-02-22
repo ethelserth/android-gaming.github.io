@@ -1,9 +1,12 @@
 ---
+title: The basics
+date: 2017-02-10 00:00:00 Z
+categories:
+- tutorials
 layout: post
-title: 'The basics'
-categories : tutorials
-description: >
-  Μάθετε Html από το μηδέν, εύκολα και γρήγορα.
+description: 'Μάθετε Html από το μηδέν, εύκολα και γρήγορα.
+
+'
 comments: true
 ---
 
