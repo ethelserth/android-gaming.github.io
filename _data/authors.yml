@@ -12,7 +12,7 @@ ethelserth:
     συμμετέχεις στην παράνοια μου και φυσικά να ενημερώνεσαι για νέες
     αναρτήσεις, διαγωνισμούς, δώρα κ.τ.λ.
   picture:
-    src: /assets/img/profile.jpg
+    src: /assets/img/me.jpg
     srcset:
       1x: /assets/img/profile.jpg
   social:
