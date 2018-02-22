@@ -1,12 +1,10 @@
 ---
-title: Reviews
+title: Beauty - Tips
 layout: list
 menu: true
 order: 5
-description: 'Κριτικές για βιβλία, games και ταινίες!
-
-'
-image: "/assets/img/tutorials.jpg"
-color: "#268bd2"
+description: Δοκιμασμένες συμβουλές και κόλπα για σίγουρα αποτελέσματα!
+image: /assets/img/Beauty - Tips.jpg
+color: '#268bd2'
 ---
 
