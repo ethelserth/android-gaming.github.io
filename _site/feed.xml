@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-12T22:24:02+03:00</updated><id>http://localhost:4000/</id><title type="html">Yet Another Blog</title><subtitle>Thoughts, Projects &amp; Experimentation
+</subtitle><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><entry><title type="html">Html Tags</title><link href="http://localhost:4000/tutorials/html-tags.html" rel="alternate" type="text/html" title="Html Tags" /><published>2017-02-14T00:00:00+02:00</published><updated>2017-02-14T00:00:00+02:00</updated><id>http://localhost:4000/tutorials/html-tags</id><content type="html" xml:base="http://localhost:4000/tutorials/html-tags.html">&lt;p&gt;Στο &lt;a href=&quot;/tutorials/the-basics.html&quot;&gt;πρώτο μέρος του tutorial&lt;/a&gt;, γνωρίσαμε την &lt;strong&gt;Html&lt;/strong&gt; και είδαμε ένα πολύ βασικό παράδειγμα. Σε αυτό το μέρος θα ασχοληθούμε εκτενέστερα με τα &lt;strong&gt;tags&lt;/strong&gt; και ποιό συγκεκριμένα με την σύνταξη τους.&lt;/p&gt;
+
+&lt;p&gt;Όπως είδαμε στο πρώτο μέρος του tutorial, τα tags χρησιμοποιούνται για να δηλώσουν τα διάφορα &lt;strong&gt;elements&lt;/strong&gt; της σελίδας μας, καθώς και για να περιγράψουν την δομή αυτής. Είναι αρκετά σημαντικό η σελίδα μας να έχει σωστή δομή, καθώς αυτό βοηθάει στο &lt;strong&gt;SEO&lt;/strong&gt;, δηλαδή στο πόσο ψηλά θα εμφανιστεί η σελίδα μας στα αποτελέσματα αναζήτησης. Ποιο αναλυτικά θα ασχοληθούμε με αυτό το θέμα σε επόμενο άρθρο.&lt;/p&gt;
+
+&lt;p&gt;Εξίσου σημαντικό ρόλο για το SEO, παίζει και η σωστή επιλογή των tags που θα χρησιμοποιήσουμε. Τα  tags πρέπει να τεριάζουν εννοιολογικά με το περιεχόμενο που έχουν. Επίσης πρέπει να χρησιμοποιούμε tags που ανοίκουν στην &lt;strong&gt;Html5&lt;/strong&gt;, την τελευταία έκδοση της Html. Πολλές φορές μπορούμε να πετύχουμε το ίδιο αποτέλεσμα χρησιμοποιώντας και tags από παλιότερες εκδόσεις, αλλά ιδανικά αυτό πρέπει να να αποφεύγετε. Παρακάτω με τα σύγχρονα tags, θα παρουσιαστούν και διάφορα legacy tags.&lt;/p&gt;
+
+&lt;p&gt;Ακολουθούν τα κυριότερα tags. Για την καλύτερη κατανόηση αντιγράψτε τα και τρέξτε τα στον browser σας.&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Στο πρώτο μέρος του tutorial, γνωρίσαμε την Html και είδαμε ένα πολύ βασικό παράδειγμα. Σε αυτό το μέρος θα ασχοληθούμε εκτενέστερα με τα tags και ποιό συγκεκριμένα με την σύνταξη τους. Όπως είδαμε στο πρώτο μέρος του tutorial, τα tags χρησιμοποιούνται για να δηλώσουν τα διάφορα elements της σελίδας μας, καθώς και για να περιγράψουν την δομή αυτής. Είναι αρκετά σημαντικό η σελίδα μας να έχει σωστή δομή, καθώς αυτό βοηθάει στο SEO, δηλαδή στο πόσο ψηλά θα εμφανιστεί η σελίδα μας στα αποτελέσματα αναζήτησης. Ποιο αναλυτικά θα ασχοληθούμε με αυτό το θέμα σε επόμενο άρθρο. Εξίσου σημαντικό ρόλο για το SEO, παίζει και η σωστή επιλογή των tags που θα χρησιμοποιήσουμε. Τα tags πρέπει να τεριάζουν εννοιολογικά με το περιεχόμενο που έχουν. Επίσης πρέπει να χρησιμοποιούμε tags που ανοίκουν στην Html5, την τελευταία έκδοση της Html. Πολλές φορές μπορούμε να πετύχουμε το ίδιο αποτέλεσμα χρησιμοποιώντας και tags από παλιότερες εκδόσεις, αλλά ιδανικά αυτό πρέπει να να αποφεύγετε. Παρακάτω με τα σύγχρονα tags, θα παρουσιαστούν και διάφορα legacy tags. Ακολουθούν τα κυριότερα tags. Για την καλύτερη κατανόηση αντιγράψτε τα και τρέξτε τα στον browser σας.</summary></entry><entry><title type="html">The basics</title><link href="http://localhost:4000/tutorials/the-basics.html" rel="alternate" type="text/html" title="The basics" /><published>2017-02-10T00:00:00+02:00</published><updated>2017-02-10T00:00:00+02:00</updated><id>http://localhost:4000/tutorials/the-basics</id><content type="html" xml:base="http://localhost:4000/tutorials/the-basics.html">&lt;p&gt;Η &lt;strong&gt;Html&lt;/strong&gt; αποτελεί το ποιο βασικό και θεμελιώδη στοιχείο των ιστοσελίδων στο web καθώς για web εφαρμογές. Το όνομα, είναι αρκτικόλεξο που βγαίνει από τη φράση &lt;strong&gt;hypertext markup language&lt;/strong&gt;. Όπως μαρτυρά και η παραπάνω φράση, η Html είναι μια &lt;strong&gt;markup γλώσσα&lt;/strong&gt;, δηλαδή μια γλώσσα προγραμματισμού την οποία χρησιμοποιούμε για να περιγράψουμε την δομή μια οντότητας, που στην περίπτωση μας είναι η ιστοσελίδα.&lt;/p&gt;
+
+&lt;p&gt;Ο στόχος λοιπόν της Html είναι να δημιουργήσει το περιεχόμενο (ως ένα σημείο) και την δομή του. Για τον τρόπο που αυτό θα εμφανιστεί, υπεύθυνα είναι το &lt;strong&gt;Css&lt;/strong&gt; και η &lt;strong&gt;Javascript&lt;/strong&gt;, δυο θέματα που προς το παρόν δεν θα μας απασχολήσουν&lt;/p&gt;
+
+&lt;p&gt;Είναι πολύ εύκολο να γράψει κανείς html. Αρκεί ένας βασικός &lt;strong&gt;text-editor&lt;/strong&gt;, όπως το notepad των windows. Είναι προτιμότερο βέβαια να χρησιμοποιήσετε κάποιον ποιο ολοκληρωμένο editor, καθώς χαρακτηριστικά όπως code hightlight, suggestions και shortcuts, θα σας γλιτώσουν αρκετό χρόνο. Ένα πολύ καλό πρόγραμμα που θα μπορούσατε να κατεβάσετε είναι το &lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ένα πολύ βασικό αρχείο html, έχει συνήθως την παρακάτω μορφή :&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Για να &lt;em&gt;τρέξετε&lt;/em&gt; αυτό το απλό παράδειγμα, αντιγράψτε το στον text-editor σας, αποθηκεύστε το με οποιοδήποτε όνομα θέλετε και την κατάληξη &lt;strong&gt;.html&lt;/strong&gt; και στην συνέχεια ανοίξτε το στον &lt;strong&gt;browser&lt;/strong&gt; της επιλογής σας. Θα δείτε τις λέξεις hello world τυπωμένες στην οθόνη σας.&lt;/p&gt;
+
+&lt;p&gt;Τα σύμβολα που βλέπετε στο παράδειγμα, λέγονται &lt;strong&gt;tags&lt;/strong&gt; και δηλώνουν τα διάφορα &lt;strong&gt;elements&lt;/strong&gt; της σελίδας μας. Ένα tag ξεκινάει βάζοντας το μέσα στα σύμβολα &lt;strong&gt;&amp;lt;&amp;gt;&lt;/strong&gt;, κλείνει αντίστοιχα με &lt;strong&gt;&amp;lt;/&amp;gt;&lt;/strong&gt; και μπορεί να εμπεριέχει μέσα του και άλλα tags. Θα αναφερθούμε εκτενέστερα στα tags στο επόμενο μέρος, αλλά συνοπτικά τα tags που χρησιμοποιήσαμε στο παραπάνω παράδειγμα είναι τα εξής :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&amp;lt;!DOCTYPE html&amp;gt;:&lt;/strong&gt; Όλα τα html έγγραφα πρέπει να ξεκινάν με αυτή τη γραμμή. Δηλώνει μεταξύ άλλων την έκδοση της html, στην περιπτωσή μας σε HTML5.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&amp;lt;head&amp;gt;:&lt;/strong&gt; Μέσα στο tag αυτό δηλώνουμε διάφορες πληροφορίες για το έγγραφο μας, όπως τίτλο της σελίδας, περιγραφή. Επίσης εδώ δηλώνουμε τα αρχεία Css/Javascript που χρησιμοποιεί η σελίδας μας.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&amp;lt;body&amp;gt;:&lt;/strong&gt; Περιέχει το περιεχόμενο που βλέπει ο χρήστης. Ότι γράφουμε πρέπει να βρήσκετε μέσα στο body.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&amp;lt;p&amp;gt;:&lt;/strong&gt; Σημαίνει Paragraph και δηλώνει μια παράγραφο κειμένου.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Σημείωση :&lt;/dt&gt;
+    &lt;dd&gt;Html5 είναι η στάνταρ έκδοση που χρησιμοποιείται τα τελευταία χρόνια. Εισήγαγε αρκετά νέα elements και έλυσε το πρόβλημα που υπήρχε ως τότε, δηλαδή την ύπαρξη αρκετών διαφορετικών ταυτόχρονων εκδόσεων, που δημιουργούσαν προβλήματα συμβατότητας στους προγραμματιστές. &lt;a href=&quot;https://www.w3schools.com/html/html5_intro.asp&quot;&gt;Περισσότερα για την Html5 μπορείτε να μάθετε εδώ&lt;/a&gt;.&lt;/dd&gt;
+  &lt;/dl&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Στο επόμενο part θα μάθετε περισσότερα για τη δομή ενός εγγράφου Html καθώς και για τα διάφορα διαθέσιμα tags.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stay tuned!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Η Html αποτελεί το ποιο βασικό και θεμελιώδη στοιχείο των ιστοσελίδων στο web καθώς για web εφαρμογές. Το όνομα, είναι αρκτικόλεξο που βγαίνει από τη φράση hypertext markup language. Όπως μαρτυρά και η παραπάνω φράση, η Html είναι μια markup γλώσσα, δηλαδή μια γλώσσα προγραμματισμού την οποία χρησιμοποιούμε για να περιγράψουμε την δομή μια οντότητας, που στην περίπτωση μας είναι η ιστοσελίδα. Ο στόχος λοιπόν της Html είναι να δημιουργήσει το περιεχόμενο (ως ένα σημείο) και την δομή του. Για τον τρόπο που αυτό θα εμφανιστεί, υπεύθυνα είναι το Css και η Javascript, δυο θέματα που προς το παρόν δεν θα μας απασχολήσουν Είναι πολύ εύκολο να γράψει κανείς html. Αρκεί ένας βασικός text-editor, όπως το notepad των windows. Είναι προτιμότερο βέβαια να χρησιμοποιήσετε κάποιον ποιο ολοκληρωμένο editor, καθώς χαρακτηριστικά όπως code hightlight, suggestions και shortcuts, θα σας γλιτώσουν αρκετό χρόνο. Ένα πολύ καλό πρόγραμμα που θα μπορούσατε να κατεβάσετε είναι το Sublime Text.</summary></entry><entry><title type="html">Brexit</title><link href="http://localhost:4000/thoughts/Brexit.html" rel="alternate" type="text/html" title="Brexit" /><published>2016-06-24T00:00:00+03:00</published><updated>2016-06-24T00:00:00+03:00</updated><id>http://localhost:4000/thoughts/Brexit</id><content type="html" xml:base="http://localhost:4000/thoughts/Brexit.html">&lt;p&gt;Οι Κινέζοι έχουν ένα αρχαίο ρητό που χρησιμοποιείται σαν ευχή, αλλά και σαν κατάρα. &lt;strong&gt;Είθε να ζήσεις ενδιαφέροντες καιρούς λέγαν&lt;/strong&gt;, από τη μια σαν ευχή, καθώς το να ζει κανείς σε χρόνια γεμάτα από ενδιαφέροντα ιστορικά γεγονότα προσφέρει στο άτομο ευκαιρίες να διαμορφώσει ( ή να αλλάξει )τον κόσμο· ταιριαστή εδώ είναι και η φράση ενός άλλου κινέζου, του Μάο Τσε Τουγκ &lt;strong&gt;μεγάλη αναταραχή, θαυμάσια κατάσταση&lt;/strong&gt;. Από την άλλη το παραπάνω ρητό αποτελεί και κατάρα, καθώς εποχές γεμάτες αναταραχές και αλλαγές, έχουν συνήθως αρνητικές συνέπειες για τον απλό λαό. Ο κόσμος μας και ιδιαίτερα η Δύση, μετά την ιδιόμορφη Pax Americana των μεταψυχροπολεμικών χρόνων και ποιο συγκεκριμένα, μετά την χρηματιστηριακή κρίση του 2008, αναμφίβολα διανύει ενδιαφέροντα χρόνια, κάτι που επιβεβαιώθηκε για άλλη μια φορά στις 23 Ιουνίου του 2016, μια μέρα που την ώρα που γράφεται το κείμενο αυτό, οι συνέπειες της για τον κόσμο δεν έχουν γίνει ακόμη πλήρως κατανοητές.&lt;/p&gt;
+
+&lt;p&gt;Στις 23 του Ιούνι, ο λαός του Ηνωμένου Βασιλείου κλήθηκε να συμμετάσχει σε δημοψήφισμα, για την παραμονή ή όχι, της χώρας τους, στην Ευρωπαϊκή Ένωση. Κόντρα σε όλες της προβλέψεις, τα ξημερώματα της επόμενης μέρας και ενώ η καταμέτρηση έφτανε στο τέλος της, η Μεγάλη Βρετανία, έγινε η πρώτη χώρα που αποχώρησε* από την ΕΕ, ο κόσμος βυθίστηκε στο χάος και την αβεβαιότητα, ενώ οι πολιτικοί για δεύτερη φορά σε ένα χρόνο, έμαθαν με τον δύσκολο τρόπο να φοβούνται τα δημοψηφίσματα. Λίγο μετά από την ανακοίνωση των αποτελεσμάτων, τα μεγάλα χρηματιστήρια της Ανατολής, που ήταν ανοικτά εκείνες τις ώρες, σημείωσαν κάθετη πτώση, λίγες ώρες μετά ακολούθησαν, με το που άνοιγαν τα Ευρωπαϊκά, ενώ οι ίδιοι οι Βρετανοί είδαν, την αξία της στερλίνας να πέφτει στα επίπεδα που είχε το 1985. Οι πολιτικές αντιδράσεις όμως δεν ήταν λιγότερο θυελλώδεις, καθώς σε μια Ευρώπη ταλαιπωρημένη από την οικονομική και την προσφυγική κρίση και διαβρωμένη από τον Ευρωσκεπτικισμό και την ακροδεξιά, υπήρξαν πολλοί που έσπευσαν να εκμεταλλευτούν το παράδειγμα της Βρετανίας. Στην Ολλανδία την Γαλλία και Ιταλία ευρωσκεπτικιστές και ακροδεξιοί-εθνικιστές, ζήτησαν με την σειρά τους δημοψηφίσματα για την ευρωπαϊκή πορεία των χωρών τους προσθέτοντας μερικούς ακόμη τριγμούς στο ευρωπαϊκό οικοδόμημα.&lt;/p&gt;
+
+&lt;p&gt;Αλλά αν το μέλλον της Ευρωπαϊκής Ένωσης μοιάζει αβέβαιο, τότε το μέλλον του Ηνωμένου Βασιλείου είναι τουλάχιστον σκοτεινό. Η Σκωτία, δύο χρόνια μετά το δικό τους δημοψήφισμα για παραμονή ή όχι στο Ηνωμένο Βασίλειο, επαναφέρει το θέμα της απόσχισης μετά από το Brexit, ενώ ερωτήματα προκύπτουν για την στάση της Βόρειας Ιρλανδίας και του Γιβραλτάρ. Σημειώνεται ότι στις τρεις παραπάνω χώρες, επικράτησε το Bremain, δηλαδή η παραμονή στην ένωση. Όσο για την κεντρική πολιτική σκηνή της Βρετανίας, ο Ντέιβιντ Κάμερον, προανήγγειλε την παραίτηση του τον ερχόμενο Οκτώβρη, δηλώνοντας ότι ο διάδοχός του θα είναι αυτός που θα οδηγήσει την χώρα εκτός ΕΕ, εφαρμόζοντας το περίφημο άρθρο 50, δηλαδή το άρθρο που προβλέπει τη διαδικασία αποχώρηση ενός κράτους μέλους.&lt;/p&gt;
+
+&lt;p&gt;Ενδιαφέροντες μέρες σίγουρα, αλλά ποίο πολύ μοιάζει να είναι κατάρα παρά ευτύχημα. Η Ενωμένη Ευρώπη βυθίζεται στον εθνικισμό, τον ρατσισμό και την ξενοφοβία, θυμίζοντας όλο και περισσότερο την Ευρώπη του Μεσοπολέμου, ενώ η οικονομική κρίση, που δεν φαίνεται να τελειώνει σύντομα και σίγουρα όχι όσο συνεχίζονται οι νεοφιλελεύθερες πολιτικές της λιτότητας, καθώς και η προσφυγική κρίση που έχει πάρει τεράστιες διαστάσεις τα τελευταία δύο χρόνια, μόνο λάδι ρίχνουν στην φωτιά. Αντί οι Ευρωπαίοι να κάνουν την αυτοκριτική τους και να βρουν σε ποιο σημείο το όραμα μιας Ευρωπαϊκής οικογένειας απέτυχε και να εξετάσουν πως η Ευρώπη των λαών έγινε Ευρώπη των αγορών, αναλώνονται σε ανούσιες συζητήσεις που το μόνο που καταφέρουν είναι να κρύψουν την δική τους γύμνια. Χαρακτηριστικό το παράδειγμα υποστηρικτών του Bremain, που ποινικοποιούν και μειώνουν την ψήφο ατόμων στην τρίτη ηλικία, επειδή σε μεγάλο ποσοστό ψήφισαν Brexit. Ιδικά εγχώρια, η άποψη αυτή αναπαράχθηκε από άτομα που στο παρελθόν στοχοποίησαν την ψήφο των νέων όταν διαφοροποιούταν από την δικιά τους, οπότε τελικά το πρόβλημα για αυτούς είναι μάλλον η δημοκρατία.&lt;/p&gt;
+
+&lt;p&gt;Θα περάσει αρκετός καιρός μέχρι να αποκαλυφθεί το σύνολο των συνεπειών του Δημοψηφίσματος αυτού. Το σίγουρο είναι η Ευρώπη και ίσως και ο κόσμος δεν θα είναι ξανά ίδιος.&lt;/p&gt;
+
+&lt;p&gt;Ενδιαφέροντες καιροί, πράγματι.&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Οι Κινέζοι έχουν ένα αρχαίο ρητό που χρησιμοποιείται σαν ευχή, αλλά και σαν κατάρα. Είθε να ζήσεις ενδιαφέροντες καιρούς λέγαν, από τη μια σαν ευχή, καθώς το να ζει κανείς σε χρόνια γεμάτα από ενδιαφέροντα ιστορικά γεγονότα προσφέρει στο άτομο ευκαιρίες να διαμορφώσει ( ή να αλλάξει )τον κόσμο· ταιριαστή εδώ είναι και η φράση ενός άλλου κινέζου, του Μάο Τσε Τουγκ μεγάλη αναταραχή, θαυμάσια κατάσταση. Από την άλλη το παραπάνω ρητό αποτελεί και κατάρα, καθώς εποχές γεμάτες αναταραχές και αλλαγές, έχουν συνήθως αρνητικές συνέπειες για τον απλό λαό. Ο κόσμος μας και ιδιαίτερα η Δύση, μετά την ιδιόμορφη Pax Americana των μεταψυχροπολεμικών χρόνων και ποιο συγκεκριμένα, μετά την χρηματιστηριακή κρίση του 2008, αναμφίβολα διανύει ενδιαφέροντα χρόνια, κάτι που επιβεβαιώθηκε για άλλη μια φορά στις 23 Ιουνίου του 2016, μια μέρα που την ώρα που γράφεται το κείμενο αυτό, οι συνέπειες της για τον κόσμο δεν έχουν γίνει ακόμη πλήρως κατανοητές.</summary></entry><entry><title type="html">Deepart</title><link href="http://localhost:4000/technology/deepart.html" rel="alternate" type="text/html" title="Deepart" /><published>2016-06-11T00:00:00+03:00</published><updated>2016-06-11T00:00:00+03:00</updated><id>http://localhost:4000/technology/deepart</id><content type="html" xml:base="http://localhost:4000/technology/deepart.html">&lt;p&gt;&lt;img src=&quot;/assets/img/deepart-main.jpg&quot; alt=&quot;800x400&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Η εικόνα που βλέπετε μπορεί να σας φαίνεται γνώριμη. Ίσως να την περνάτε ή έστω να σας θυμίζει ένα διάσημο έργο ζωγραφική, με το όνομα The &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Starry_Night&quot;&gt;Stary Night&lt;/a&gt;. Εν μέρη, έχετε δίκιο. H εικόνα, έχει δανειστεί το “στυλ” από τον διάσημο πίνακα του &lt;strong&gt;Vincent van Gogh&lt;/strong&gt;. Με τη σειρά σας, θα στεφτείτε ίσως ότι, κάποιος επίδοξος ζωγράφος ξόδεψε ατελείωτε ώρες, ώστε να αναπαράγει το στυλ αυτό σε έναν πίνακα του, προσπαθώντας να τραβήξει την προσοχή του κόσμου στο έργο του, εκμεταλλευόμενος την αναγνωρισιμότητα του αυθεντικού έργου. Και πάλι λάθος. Πρόκειται για μια εικόνα, δημιουργημένη σε λίγα λεπτά της ώρας, από έναν αλγόριθμο σχεδιασμένο ώστε να παίρνει το “στυλ” από μια εικόνα ή ένα έργο τέχνης και στην συνέχεια να το “εφαρμόζει” πάνω σε μια άλλη εικόνα.&lt;/p&gt;
+
+&lt;p&gt;Ο αλγόριθμος αναπτύχθηκε από τους &lt;strong&gt;Leon Gatys&lt;/strong&gt;, &lt;strong&gt;Alexander Ecker&lt;/strong&gt; και &lt;strong&gt;Matthias Bethge&lt;/strong&gt;, ονομάζεται &lt;a href=&quot;https://arxiv.org/abs/1508.06576&quot;&gt;A Neural Algorithm of Artistic Style&lt;/a&gt; και η λογική του βασίζεται στην ιδέα ότι, ένας πίνακας ζωγραφικής ή μια εικόνα γενικότερα, μπορεί να αναλυθεί σε περιεχόμενο και στυλ. To σύστημα βασίζεται πάνω σε ένα Deep Neural Network, υποκατηγορία του Machine Learning ( Μηχανική μάθηση ). Δέχεται σαν είσοδο δύο εικόνες, αυτή που θέλουμε να επεξεργαστούμε και αυτή από την οποία θέλουμε να πάρουμε το στυλ, τις επεξεργάζεται αναλύοντάς τες και στην συνέχεια παράγει μια νέα εικόνα.&lt;/p&gt;
+
+&lt;p&gt;Οι δημιουργοί του αλγόριθμου, έχουν δημιουργήσει μια ιστοσελίδα, με όνομα &lt;a href=&quot;https://arxiv.org/abs/1508.06576&quot;&gt;Deepart.io&lt;/a&gt;, στην οποία όποιος θέλει, μπορεί να δοκιμάσει την παραπάνω διαδικασία, ανεβάζοντας την εικόνα που θέλετε και στην συνέχεια εφαρμόζοντας ένα από τα διαθέσιμα στυλ ή κάποιο της επιλογής σας. Ίσως αυτό, του αγαπημένου σας πίνακα ζωγραφικής!&lt;/p&gt;
+
+&lt;p&gt;Παρακάτω μπορείτε να δείτε ένα παράδειγμα. Η πρώτη φωτογραφία που επέλεξα να επεξεργαστώ, από τη δεύτερη εικόνα παίρνουμε το στυλ και η τρίτη φωτογραφία είναι το αποτέλεσμα.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/deepart-sm-1.jpg&quot; alt=&quot;200x200&quot; title=&quot;Small example image&quot; /&gt;
+&lt;img src=&quot;/assets/img/deepart-sm-2.jpg&quot; alt=&quot;200x200&quot; title=&quot;Small example image&quot; /&gt;
+&lt;img src=&quot;/assets/img/deepart-sm-3.jpg&quot; alt=&quot;200x200&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Λεξικό:&lt;/p&gt;
+
+&lt;p&gt;Deep Neural Network : Γενικά ένα Neural Network ( Νευρωνικό Δίκτυο ) είναι ένας αλγόριθμος που εμπνέεται από την δομή και τον τρόπο λειτουργίας των ανθρώπινων, βιολογικών νευρωνικών δικτύων και χρησιμοποιείται για την εκπαίδευση ενός υπολογιστή μέσα από την συνεχή ανάλυση των διαφόρων δεδομένων. Αντίστοιχα ένα Deep Neural Network, είναι ένα ένα Neural Networkχρησιμοποιεί τεχνικές Deep Learning για εκπαίδευση.&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html"></summary></entry><entry><title type="html">Το γλωσσικό ζήτημα</title><link href="http://localhost:4000/thoughts/xamenoi-sthn-metafrash.html" rel="alternate" type="text/html" title="Το γλωσσικό ζήτημα" /><published>2016-06-07T00:00:00+03:00</published><updated>2016-06-07T00:00:00+03:00</updated><id>http://localhost:4000/thoughts/xamenoi-sthn-metafrash</id><content type="html" xml:base="http://localhost:4000/thoughts/xamenoi-sthn-metafrash.html">&lt;p&gt;Ο όρος γλωσσικό ζήτημα, αναφέρεται στο φαινόμενο διχασμού που εμφανίστηκε από τους Ελληνιστικούς χρόνους αλλά γιγαντώθηκε κατά τον 19ο αιώνα καθώς και στο πρώτο μισό του 20ο. Αφορά τον διαχωρισμό της γλώσσας σε γραπτή και καθομιλουμένη, κάτι που προκάλεσε από την αρχαιότητα διενέξεις σχετικά με το ποια διάλεκτο ή παραλλαγή θα χρησιμοποιηθεί.&lt;/p&gt;
+
+&lt;p&gt;Η σύγχρονη πτυχή του γλωσσικού ζητήματος, εμφανίστηκε όταν με την ίδρυση του Νέου Ελληνικού κράτους αναδύθηκε το ζήτημα της επιλογής της επίσημης γλώσσας που θα χρησιμοποιούνταν στην εκπαίδευση, στην λογοτεχνία και στις επίσημες εκδηλώσεις. Αρχικά καθιερώνεται η &lt;strong&gt;καθαρεύουσα&lt;/strong&gt;, μια κατασκευασμένη μορφή της ελληνικής, αποτελούμενη από πολλά στοιχεία της &lt;strong&gt;αρχαίας ελληνικής&lt;/strong&gt; και αποτελεί τον ενδιάμεσο κρίκο με την &lt;strong&gt;δημοτική&lt;/strong&gt;. Ήταν “καθαρή” από τα στοιχεία εκείνα που η ελληνική είχε αποκτήσει από ξένες επιρροές κατά την διάρκεια της παραμονής των εθνοτικών αυτών ομάδων στον ελλαδικό χώρο. Άμεσα υπήρξαν οι πρώτες αντιδράσεις. Οι οπαδοί της δημοτικής άσκησαν την κρητική τους καταγγέλλοντας την τεχνική παρέμβαση στην γλώσσα, ενώ οι υποστηρικτές της αρχαίας ελληνικής, λέγοντας ότι η καθαρεύουσα απαρνιέται την γλωσσική παράδοση.&lt;/p&gt;
+
+&lt;p&gt;Αυτό ήταν η αρχή μια διαμάχης που κράτησε μέχρι και την πτώση της δικτατορίας. Στις αρχαίες του 20ου αιώνα το ζήτημα είχε πάρει τέτοιες διαστάσεις, που το ανέδειξαν σε μείζον πολιτικό θέμα και διχάζει τόσο τον λόγιο κόσμο όσο και την κοινωνία γενικότερα. Ενδεικτικό παράδειγμα τα &lt;a href=&quot;https://el.wikipedia.org/wiki/%CE%9F%CF%81%CE%B5%CF%83%CF%84%CE%B5%CE%B9%CE%B1%CE%BA%CE%AC&quot;&gt;Ορεστείακα&lt;/a&gt;, αιματηρά επεισόδια μεταξύ  δημοτικιστών και καθαρευουσιάνων με αφορμή την παράσταση της Ορέστειας του Αισχύλου στην δημοτική, το 1903. Το γλωσσικό ζήτημα, λύθηκε τελεσίδικα το 1977 με την απόφαση της χρήσης της δημοτικής σε όλες τις βαθμίδες της εκπαίδευσης καθώς και σε όλες τις λειτουργίες και τα έγγραφα του κράτους.&lt;/p&gt;
+
+&lt;p&gt;Γράφω για αυτά καθότι παρατηρώ ένα ιδιόμορφο, σύγχρονο γλωσσικό ζήτημα. Η δημοτική έχει καθιερωθεί στην Ελλάδα. Τις τελευταίες δεκαετίες όμως, χάρη στις νέες τεχνολογίες και κατά βάση χάρη στο διαδίκτυο, οι αποστάσεις εκμηδενίστηκαν και ένα επήλθε περισσότερο από τι άλλοτε, η παγκοσμιοποίηση κάνοντας την Αγγλική γλώσσα, κατά κάποιο “κοινή”. Κοινή με την έννοια ότι είναι η γλώσσα που θα χρησιμοποιήσει συνήθως κάποιος σε ένα ταξίδι, στην επιστήμη διαβάζοντας ξένη βιβλιογραφία, στην τεχνολογία και στο διαδίκτυο. Σημειώνεται ότι σχεδόν &lt;a href=&quot;https://arxiv.org/abs/cs/0006032&quot;&gt;οι μισές αρχικές σελίδες στο διαδίκτυο&lt;/a&gt; χρησιμοποιούν Αγγλικά. Παρατηρείτε επομένος για άλλη μια φόρα, ένα φαινόμενο διγλωσσίας.&lt;/p&gt;
+
+&lt;p&gt;Το ιδιότυπο λοιπόν, γλωσσικό ζήτημα, στο οποίο αναφέρομαι, έγκειται στην επιλογή της γλώσσας καθώς και στην μετάφραση ή όχι διαφόρων τεχνικών όρων, όταν γραφεί κάποιος ένα τεχνικό άρθρο. Συνάντησα για πρώτη φορά το πρόβλημα στήνοντας το Μπλογκ αυτό. Η σωστή πρακτική θα ήταν να γίνει εξολοκλήρου μετάφραση του περιεχομένου καθώς και τις διεπαφής χρήστη, ενώ αν απαιτούνταν η υποστήριξη παραπάνω γλωσσών, να γίνουν οι απαραίτητες ενέργειες για τη αλλαγή μεταξύ των γλωσσών.&lt;/p&gt;
+
+&lt;p&gt;Συνειδητά επέλεξα να μην ακολουθήσω την πεπατημένη. Όπως μπορεί κάποιος να δει στο μπλογκ, η διεπαφή χρήστη είναι στα Αγγλικά ενώ Ελληνικά χρησιμοποιούνται στα άρθρα και μόνο. Αυτή θα είναι και η τελική μορφή του μπλογκ τουλάχιστον προς το παρόν. Θα ήταν εξαιρετικά χρονοβόρο να μεταφράζω το εκάστοτε άρθρο στα Αγγλικά έτσι ώστε να είναι πολυγλωσσικό το μπλογκ, ενώ τα Αγγλικά μου δεν είναι σε αρκετά καλό επίπεδο ώστε να αρθρογραφώ σε αυτή την γλώσσα και μόνο. Τέλος το να μεταφράσω την διεπαφή χρήστη εξολοκλήρου στα Ελληνικά, αισθάνομαι ότι δεν θα μπορούσε να γίνει. Αγγλικοί όροι θα συνέχιζαν να υπάρχουν εδώ και κει, επιβεβαιώνοντας την ύπαρξη του σύγχρονου γλωσσικού ζητήματος.&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Ο όρος γλωσσικό ζήτημα, αναφέρεται στο φαινόμενο διχασμού που εμφανίστηκε από τους Ελληνιστικούς χρόνους αλλά γιγαντώθηκε κατά τον 19ο αιώνα καθώς και στο πρώτο μισό του 20ο. Αφορά τον διαχωρισμό της γλώσσας σε γραπτή και καθομιλουμένη, κάτι που προκάλεσε από την αρχαιότητα διενέξεις σχετικά με το ποια διάλεκτο ή παραλλαγή θα χρησιμοποιηθεί.</summary></entry><entry><title type="html">Αρχαία Ελληνικά και άλλες παρά φύσιν ιστορίες</title><link href="http://localhost:4000/thoughts/arxaia-ellhnika-kai-alles-para-fysin-istories.html" rel="alternate" type="text/html" title="Αρχαία Ελληνικά και άλλες παρά φύσιν ιστορίες" /><published>2016-06-03T00:00:00+03:00</published><updated>2016-06-03T00:00:00+03:00</updated><id>http://localhost:4000/thoughts/arxaia-ellhnika-kai-alles-para-fysin-istories</id><content type="html" xml:base="http://localhost:4000/thoughts/arxaia-ellhnika-kai-alles-para-fysin-istories.html">&lt;p&gt;Η δύναμη του διαδικτύου φαίνεται, στις μέρες μας, περισσότερο από ποτέ. Η ενημέρωση, η μάθηση και η διασκέδαση, έχουν μετακινηθεί από τα παραδοσιακά μέσα στο διαδίκτυο, κάνοντας τα προσβάσιμα με πιο εύκολο τρόπο. Μαζί τους όπως ήταν επόμενο και η προπαγάνδα, η οποία βρήκε εύφορο έδαφος στο άναρχο και δύσκολα ελεγχόμενο διαδίκτυο. Διαδικτυακά “trolls”, ψευδείς ειδήσεις και πολιτική προπαγάνδα είναι κάτι που παρατηρούμε συχνά τα τελευταία χρόνια ακόμη και στην Ελλάδα. Δεν πρόκειται για κάτι νέο και σίγουρα δεν είναι ανησυχητικό, τουλάχιστον όχι από μόνο του.&lt;/p&gt;
+
+&lt;p&gt;Ανησυχητικό, ακόμη και τρομακτικό, γίνεται όταν διαπιστώσει κάνεις την παντελή έλλειψη κρητικής σκέψης του μέσου Έλληνα αναγνώστη, έτσι ώστε να αξιολογήσει, να φιλτράρει και κατ επέκταση να απορρίψει ή να δεχθεί αυτό που διαβάζει.&lt;/p&gt;
+
+&lt;p&gt;Με μια απλή περιήγηση στα ελληνικά social media καθώς και στα blogs που προωθούνται μέσω αυτών, αρκεί για να μας πείσει. Από μύθους και δεισιδαιμονίες που αναπαράγονται από τον κάθε λογής παρανοϊκό, μέχρι ψεύτικες ή παραποιημένες ειδήσεις, φτιαγμένες με μόνο στόχο την όσο το δυνατόν περισσότερη επισχεψημότητα.&lt;/p&gt;
+
+&lt;p&gt;Μια τέτοια παραποιημένη είδηση, αποτελεί και τον λόγο για τον οποίο γράφετε το παρόν άρθρο. Πρόκειται για την παραποιημένη δήλωση του υπουργού Παιδείας Φίλη, που δημοσιεύθηκε και αναπαράχθηκε από ειδησεογραφικές σελίδες σκουπίδια καθώς και από blogs με αντίπαλη πολιτική ιδεολογία από το κυβερνόν κόμμα.&lt;/p&gt;
+
+&lt;p&gt;Η αρχική δήλωση ήταν εξής :&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Παρά φύσιν να διδάσκονται στην Α’ Γυμνασίου 3 ώρες αρχαία και 2 ώρες Νέα ελληνικά”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Μια δήλωση που κατά βάση είναι σωστή. Που μας λέει ότι, ένας μαθητής πρέπει να μάθει πρώτα την γλώσσα του πριν ξεκινήσει να διδάσκεται τα αρχαία Ελληνικά, ένα μάθημα που με τον τρόπο που γίνεται στην δευτεροβάθμια εκπαίδευση, αποτελεί μια στείρα παρουσίαση γραμματικών και συντακτικών κανόνων, αγνοώντας σχεδόν πλήρως τα αρχαία κείμενα και την εννοιολογική ανάλυση τους. Σχεδόν κανένας μαθητής, ακόμη και αν ακολουθεί την θεωρητική κατεύθυνση, φεύγοντας από το λύκειο δεν έχει συγκρατήσει τον Επιτάφιο, την Αντιγόνη ή τα Ομηρικά Έπη. Πόσο μάλλον άλλα, ποιο πολύπλοκα κείμενα όπως Πλάτωνα, Αριστοτέλη ή οποιονδήποτε από τους κλασσικούς φιλόσοφους.&lt;/p&gt;
+
+&lt;p&gt;Εκμεταλλευόμενη την αρνητική δημοσιότητα που έχει πάρει ο υπουργός Παιδείας το τελευταίο διάστημα, αρκετές σελίδες μετέφρασαν εσκεμμένα την είδηση σε πλήρη κατάργηση των Αρχαίων Ελληνικών από τα σχολεία, σε μηδενισμό της αξίας των αρχαίων από τον Φίλη και κατ επέκταση σε αλλοίωση της “εθνικής” μας ταυτότητας, σε άλωση του ελληνισμού από τους κομμουνιστές και άλλα τέτοια ωραία γραφικά. Από όλο αυτό, οι “δημοσιογράφοι” που παραποίησαν την συγκεκριμένη είδηση κέρδισαν clicks (άρα λεφτά), ποντάροντας στα αντανακλαστικά ενός πολύ συγκεκριμένου πολιτικού κοινού, ενώ ταυτόχρονα έκαναν την προπαγάνδα τους κάνοντας μια παραποιημένη δήλωση viral, παρασέρνοντας κόσμο στο να πιστέψει αυτό που γράφουν.&lt;/p&gt;
+
+&lt;p&gt;Και κατά κάποιο τρόπο πέτυχαν. Πάρα πολλές σελίδες και στην συνέχεια χρήστες, αναδημοσίευσαν και αναπαρήγαγαν τη λάθος είδηση αποδεικνύοντας τον συντηρητισμό και την έλλειψη κρητικής της ελληνικής κοινωνίας για άλλη μια φορά. Ορδές Ελληναράδων διαμαρτύρονται τις τελευταίες μέρες τονίζοντας την υπεροχή της αρχαίας ελληνικής γλώσσας έναντι όλων τον υπολοίπων, χωρίς να έχουν στοιχεία ή έστω και τις ελάχιστες γνώσεις για να το ισχυριστούν, ενώ ο κάθε Θέμος αυτής της χώρας ετοιμάζει το επόμενο ψεύτικο άρθρο που θα μεγαλώσει ακόμη περισσότερο το πρόβλημα.&lt;/p&gt;
+
+&lt;p&gt;Καληνύχτα.&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Η δύναμη του διαδικτύου φαίνεται, στις μέρες μας, περισσότερο από ποτέ. Η ενημέρωση, η μάθηση και η διασκέδαση, έχουν μετακινηθεί από τα παραδοσιακά μέσα στο διαδίκτυο, κάνοντας τα προσβάσιμα με πιο εύκολο τρόπο. Μαζί τους όπως ήταν επόμενο και η προπαγάνδα, η οποία βρήκε εύφορο έδαφος στο άναρχο και δύσκολα ελεγχόμενο διαδίκτυο. Διαδικτυακά “trolls”, ψευδείς ειδήσεις και πολιτική προπαγάνδα είναι κάτι που παρατηρούμε συχνά τα τελευταία χρόνια ακόμη και στην Ελλάδα. Δεν πρόκειται για κάτι νέο και σίγουρα δεν είναι ανησυχητικό, τουλάχιστον όχι από μόνο του.</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/thoughts/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2016-06-01T00:00:00+03:00</published><updated>2016-06-01T00:00:00+03:00</updated><id>http://localhost:4000/thoughts/hello-world</id><content type="html" xml:base="http://localhost:4000/thoughts/hello-world.html">&lt;p&gt;Με τις λέξεις αυτές παραδοσιακά, χαιρετά ένας προγραμματιστής τον κόσμο, δοκιμάζοντας την ποιο αρχαική λειτουργία μιας νέας γλώσσας προγραμματισμού.&lt;/p&gt;
+
+&lt;p&gt;Τις λέξεις αυτές επέλεξα και γω συμβολικά για την πρώτη μου δημοσίευση στο Μπλογκ αυτό, εν μέρη, λόγο της ιδιότητας του προγραμματιστή ( Web Developer ποιο συγκεκριμένα ). Μέρος των δημοσιεύσεων που θα κάνω άλλωστε θα έχουν ως θέμα την Πληροφορική και τον προγραμματισμό. Σκοπεύω να γράψω για οποιοδήποτε θέμα μου τραβήξει το ενδιαφέρον, από πολιτική και σχολιασμό της ευρύτερης επικαιρότητας, εως απλή καταγραφή των σκέψεών μου.&lt;/p&gt;
+
+&lt;p&gt;Δεν είναι στόχος του γράφων άλλωστε, τουλάχιστον όχι προς το παρόν, να διαβαστούν αυτά που γράφονται εδώ, αλλά αυτό το Μπλογκ να αποτελέσει μια άσκηση για την σχεδιαστική – προγραμματιστική μου ιδιότητα αλλά και μια θερμοκοιτίδα των συγγραφικών μου φιλοδοξιών.&lt;/p&gt;
+
+&lt;p&gt;Για όσους ενδιαφέρονται, ονομάζομαι Αγαθοκλής Τσιώκος και μπορείτε να βρείτε περισσότερες πληροφορίες για μένα εδώ καθώς και το βιογραφικό μου. Το παρόν Μπλογκ έγινε χρησιμοποιώντας jekyll και κάμποσο css!&lt;/p&gt;
+
+&lt;p&gt;Αυτά τα λίγα για αρχή!&lt;/p&gt;
+
+&lt;p&gt;Hello World!&lt;/p&gt;</content><author><name>Agathoklis Tsiokos</name><email>pergaminh@live.com</email></author><summary type="html">Με τις λέξεις αυτές παραδοσιακά, χαιρετά ένας προγραμματιστής τον κόσμο, δοκιμάζοντας την ποιο αρχαική λειτουργία μιας νέας γλώσσας προγραμματισμού.</summary></entry><entry><title type="html">Example content</title><link href="http://localhost:4000/example-content.html" rel="alternate" type="text/html" title="Example content" /><published>2012-02-07T00:00:00+02:00</published><updated>2012-02-07T00:00:00+02:00</updated><id>http://localhost:4000/example-content</id><content type="html" xml:base="http://localhost:4000/example-content.html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; elements&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;**To bold text**&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;*To italicize text*&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; should be defined like this &lt;code class=&quot;highlighter-rouge&quot;&gt;*[HTML]: HyperText Markup Language&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;~~deleted~~&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (&lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+  &lt;dt&gt;Cascading Style Sheets (&lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+  &lt;dt&gt;JavaScript (&lt;abbr title=&quot;JavaScript&quot;&gt;JS&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/800x400&quot; alt=&quot;800x400&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;https://placehold.it/400x200&quot; alt=&quot;400x200&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;https://placehold.it/200x200&quot; alt=&quot;200x200&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Upvotes&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Alice&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bob&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Charlie&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Totals&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;</content><author><name>mdo</name></author><category term="hyde" /><summary type="html">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</summary></entry></feed>
